@@ -68,7 +68,6 @@ function circleMouseFollower(xscale, yscale) {
 circleChaptaKaro();
 circleMouseFollower();
 
-
 document.querySelectorAll(".elem").forEach(function (elem) {
   var rotate = 0;
   var diffrot = 0;
